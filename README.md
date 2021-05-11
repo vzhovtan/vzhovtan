@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @vzhovtan
-- 👀 I’m interested in Networking, SDN, Cloud computing, K8S and Docker, Linux BPF, Python, Network Programmability and Automation
+- 👋 Hi there,
+- 👀 My professional interests are in Networking, SDN, Cloud computing, K8S and Docker, Linux BPF, Python, Network Programmability and Automation
 - 🌱 I’m currently focusing on  K8S apps development and "under the hood" networking implementation in public cloud like AWS, GCP and Azure.
 - 📫 You can reach on LinkedIn @https://www.linkedin.com/in/vadim-zhovtanyuk-5553ab1b9/
 
