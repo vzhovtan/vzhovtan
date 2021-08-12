@@ -1,5 +1,5 @@
 - 👋 Hi there,
-- 👀 Networking,VXLAN, EVPN, Segment Routing, SDN, Python, K8S, Go, Data Analytics, Linux BPF, Network Programmability and Automation
+- 👀 My professional insterests are: Networking, VXLAN, EVPN, Segment Routing, SDN, Python, K8S, Go, Data Analytics, Linux BPF, Network Programmability and Automation
 - 🌱 I’m currently focusing on  K8S apps development and "under the hood" networking implementation in public cloud like AWS, GCP and Azure.
 - 📫 You can reach on LinkedIn @https://www.linkedin.com/in/vzhovtan/
 
