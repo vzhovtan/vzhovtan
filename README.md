@@ -1,5 +1,5 @@
-- My professional insterests are: Intent-based Networking, EVPN, Segment Routing, SDN, Python, Go, Rust, Kubernetes, Automation.
-- I’m currently focusing on  Intent-based Networking and Infrastructure architecture.
+- My professional insterests are: IBN, EVPN, SR, SDN, Python, Go, Rust, Docker, Kubernetes, Automation.
+- I’m currently focusing on  IBN and Infrastructure architecture.
 - You can reach me on LinkedIn @https://www.linkedin.com/in/vzhovtan/
 
 <!---
