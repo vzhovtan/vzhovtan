@@ -1,5 +1,4 @@
-- My professional insterests are: IBN, EVPN, SR, SDN, Python, Go, Rust, Docker, Kubernetes, Automation.
-- I’m currently focusing on  IBN and Infrastructure architecture.
+- My professional insterests are: IBN, EVPN, SR, SDN, Go, Python, Rust, Docker, Kubernetes, Automation.
 - You can reach me on LinkedIn @https://www.linkedin.com/in/vzhovtan/
 
 <!---
